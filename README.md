@@ -22,7 +22,9 @@ This project is a **Streamlit-based web app** that allows users to upload studen
 - **Scikit-learn** – for regression and classification models
 
 ## 📂 File Structure
+
 ├── ai102_lab_project_140_540.py # Main Streamlit application file
+
 └── README.md 
 
 ## ⚙️ How to Run the App
@@ -62,9 +64,14 @@ Uses train_test_split with random_state=42 for reproducibility
 Evaluation metrics: RMSE (regression), Accuracy (classification)
 
 📬 Contact
+
 Made with ❤️ using Python and Streamlit.
+
 For questions or suggestions:
 
+
 Name: Batool Binte Fazal / Rida Fakhir
+
 GitHub: batoolfazal / ridafaakhar1
+
 Email: batoolbintefazal2006@gmail.com 
